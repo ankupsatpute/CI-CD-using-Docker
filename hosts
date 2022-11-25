@@ -1,0 +1,2 @@
+[container]
+172.31.9.221 ansible_user=ec2-user
